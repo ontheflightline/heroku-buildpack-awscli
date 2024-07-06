@@ -11,7 +11,7 @@ function indent() {
   esac
 }
 
-AWS_CLI_URL="https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip"
+AWS_CLI_URL="https://awscli.amazonaws.com/awscli-exe-linux-x86_64-2.17.9.zip"
 
 BUILD_DIR=$1
 CACHE_DIR=$2
